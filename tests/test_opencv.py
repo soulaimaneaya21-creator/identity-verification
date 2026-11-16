@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # 1. Définir le chemin de l'image
-image_path = Path("data/raw/test_image.png"
+image_path = Path("data/raw/test_image1.png"
 "")
 
 # 2. Vérifier que le fichier existe

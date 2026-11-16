@@ -1,0 +1,5 @@
+image,haar_faces,yunet_faces,haar_time_ms,yunet_time_ms,observations
+image_test1.png,2,2,0.5,12.53,19.96,"Les deux détecteurs localisent les deux portraits"
+image_test2.jpg,,,,,
+image_test3.jpg,,,,,
+image_test4.jpg,,,,,

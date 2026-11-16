@@ -8,7 +8,7 @@ from src.detection.face_detector_haar import (
 )
 
 # 1. Charger l'image
-image = load_image("data/raw/test_image.png")
+image = load_image("data/raw/test_image1.png")
 
 # 2. Détecter les visages
 faces = detect_faces(image)

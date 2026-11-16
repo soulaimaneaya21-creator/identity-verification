@@ -1,0 +1,13 @@
+image,category,haar_faces,yunet_faces,yunet_confidence,haar_time_ms,yunet_time_ms
+normal_01.jpg,normal,2,1,0.5,20.35,22.82
+normal_02.jpg,normal,2,2,0.5,11.61,15.26
+normal_03.jpg,normal,19,1,0.5,1055.93,815.91
+normal_04.jpg,normal,2,2,0.5,23.97,23.57
+normal_05.jpg,normal,2,2,0.5,47.3,76.8
+inclined_01.jpg,inclined,2,1,0.5,55.57,72.6
+inclined_02.jpg,inclined,4,1,0.5,12.93,13.5
+inclined_03.jpg,inclined,1,3,0.5,97.61,62.48
+inclined_04.jpg,inclined,2,2,0.5,52.83,61.63
+difficult_01.jpg,difficult,2,2,0.5,17.17,15.55
+difficult_02.jpg,difficult,2,2,0.5,4.29,3.94
+difficult_03.jpg,difficult,1,2,0.5,15.17,16.1
